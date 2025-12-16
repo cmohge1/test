@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://cmohge1.github.io/test/images/cen-0101/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "cen-0101"
+                ]
+            },
+            "height": 1119,
+            "width": 839,
+            "items": [
+                {
+                    "id": "https://cmohge1.github.io/test/images/cen-0101/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://cmohge1.github.io/test/images/cen-0101/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://cmohge1.github.io/test/images/cen-0101/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 27,
+                                                "height": 35
+                                            },
+                                            {
+                                                "width": 53,
+                                                "height": 70
+                                            },
+                                            {
+                                                "width": 105,
+                                                "height": 140
+                                            },
+                                            {
+                                                "width": 210,
+                                                "height": 280
+                                            },
+                                            {
+                                                "width": 420,
+                                                "height": 560
+                                            },
+                                            {
+                                                "width": 839,
+                                                "height": 1119
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 839,
+                                        "@id": "https://cmohge1.github.io/test/images/cen-0101",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1119,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://cmohge1.github.io/test/images/cen-0101/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://cmohge1.github.io/test/images/cen-0114/canvas/",
             "type": "Canvas",
             "label": {
